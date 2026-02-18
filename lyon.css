@@ -1,14 +1,14 @@
 <style>
 @font-face {
   font-family: 'LyonArabicDisplayBlack';
-  src: url('https://cdn.jsdelivr.net/gh/abbeedo/abbeedo7@main/Lyon-Arabic-Display-Black.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/abbeedo/abbeedo7@main/lyon-arabic-display-black.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 body {
-  font-family: 'LyonArabicDisplayBlack', sans-serif;
+  font-family: 'lyon-arabic-display-black', sans-serif;
 }
 </style>
 
