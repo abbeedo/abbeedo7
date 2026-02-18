@@ -1,7 +1,15 @@
+<style>
 @font-face {
-  font-family: 'Lyon Arabic Display';
-  src: url('https://github.com/abbeedo/abbeedo7/blob/main/lyon-arabic-display-black.otf') format('opentype');
+  font-family: 'LyonArabicDisplayBlack';
+  src: url('https://cdn.jsdelivr.net/gh/abbeedo/abbeedo7@main/Lyon-Arabic-Display-Black.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
+
+body {
+  font-family: 'LyonArabicDisplayBlack', sans-serif;
+}
+</style>
+
+<p>هذا نص تجريبي على خط Lyon Arabic Display Black</p>
