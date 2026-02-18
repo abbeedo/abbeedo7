@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Lyon Arabic Display';
-  src: url('...Regular.woff2') format('woff2');
+  src: url('https://archive.org/download/lyon-arabic-display-black/lyon-arabic-display-black.otf') format('otf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'Lyon Arabic Display';
-  src: url('...Black.woff2') format('woff2');
+  src: url('https://archive.org/download/lyon-arabic-display-black/lyon-arabic-display-black.otf') format('otf');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
